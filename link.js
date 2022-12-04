@@ -1,0 +1,1 @@
+const offerLink = "https://sunnydt.netlify.app/"
