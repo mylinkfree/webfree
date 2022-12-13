@@ -1,1 +1,1 @@
-const offerLink = "https://tinyurl.com/2p8afbcv"
+const offerLink = "https://vcxxvg.netlify.app/"
