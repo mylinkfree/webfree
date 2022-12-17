@@ -1,1 +1,1 @@
-const offerLink = "https://link.gy/ea248"
+const offerLink = "https://tinyurl.com/4e2pkf9h"
